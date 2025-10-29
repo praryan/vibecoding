@@ -1,1 +1,1 @@
-# AWs Intelligence Feature
+# AWS Cost Intelligence App
